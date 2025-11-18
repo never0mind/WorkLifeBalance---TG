@@ -1,0 +1,20 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Конфиги окружения
+.env
+*.env
+
+# База данных
+bot.db
+*.sqlite
+*.sqlite3
+
+# Кэш питона
+__pycache__/
+*.pyc
+
+# PyCharm / IDE
+.idea/
+.vscode/
